@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 10db82ab29e7bfe41ab6ce35c41de20b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bodyPrefab: {fileID: 2410546381742689725, guid: df38f6be00b116948b93cd678b2cb904, type: 3}
+  - rockPrefab: {fileID: 6314639375204133381, guid: 46ff629e42d5b6e49a35aa9f70870fc0, type: 3}
+  - eggPrefab: {fileID: 3843674711322074278, guid: 6ed2c6ff654026f4a953fbb60af674ad, type: 3}
+  - goldEggPrefab: {fileID: 1914031677082913582, guid: 23b8adb520ca7e04ba6413d2019bd7e4, type: 3}
+  - spikePrefab: {fileID: 2523071530484342205, guid: af3cd57c831d2704fbe4b0f149ac9e29, type: 3}
+  - tailSprite: {fileID: 21300000, guid: e69b53ca82cd3c048b0c5c49f17c9aea, type: 3}
+  - bodySprite: {fileID: 21300000, guid: 1421c5012745df2458dab68776b17a27, type: 3}
+  - snakeHead: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - hiScoreText: {instanceID: 0}
+  - tapToPlayText: {instanceID: 0}
+  - gameOverText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
