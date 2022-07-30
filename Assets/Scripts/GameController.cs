@@ -106,7 +106,6 @@ public class GameController : MonoBehaviour
         level++;
 
         noOfEggsForNextLevel = 4 + (level * 2); //6 8 10
-        noOfSpikesForNextLevel = 1 + (level * 2);
 
         snakeSpeed = 1f + (level / 4);
         if(snakeSpeed > 6)
